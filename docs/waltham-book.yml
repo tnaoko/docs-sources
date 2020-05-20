@@ -1,0 +1,17 @@
+type: books
+books:
+-
+    id: waltham
+    order: 10
+    title: "AGL waltham" 
+    description: AGL waltham documentation
+    keywords:
+    author: "Advanced Driver Information Technology"
+    version: master
+    chapters:
+    - url: 0-waltham-overview.md
+      name: Waltham Overview
+    - url: 1-waltham-client-and-receiver.md
+      name: Waltham Client and Receiver
+    - url: 2-waltham-how-to-build.md
+      name: Waltham How to Build
